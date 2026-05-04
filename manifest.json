@@ -1,0 +1,15 @@
+{
+  "name": "Fall Detection System",
+  "version": "1.0",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "2.ino.merged.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
